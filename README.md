@@ -50,7 +50,7 @@ This is a Python-based voice assistant project that integrates various functiona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/voice-assistant
+   git clone https://github.com/https://github.com/ParthDhabalia1024/voice-bot/voice-assistant
    ```
 2. Install dependencies:
    ```bash
