@@ -116,9 +116,9 @@ if __name__ == '__main__':
                 discord_path = "C:\\Users\\ASUS\\AppData\\Local\\Discord\\app-1.0.9028\\Discord.exe"
                 os.startfile(discord_path)
 
-            elif "open gta" in query:
-                speak("Opening Gta for you sir")
-                gta_path = "D:\\Tanishq\\GTA\\Launcher.exe"
+            elif "open vs code" in query:
+                speak("Opening VS code for you sir")
+                gta_path = "C:\Users\DELL\OneDrive\Desktop\Visual Studio Code.lnk"
                 os.startfile(gta_path)
 
             elif 'ip address' in query:
